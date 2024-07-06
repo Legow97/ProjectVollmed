@@ -1,0 +1,1 @@
+alter table doctors add number_telf varchar(20) not null;
